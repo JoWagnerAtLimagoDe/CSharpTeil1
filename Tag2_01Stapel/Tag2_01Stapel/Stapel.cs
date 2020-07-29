@@ -8,10 +8,10 @@ namespace Bundesbank.Collections
     /// <summary>
     /// Eine tolle Klasse
     /// </summary>
-    public class Stapel
+    public class Stapel<HERBERT>
     {
 
-        private int[] data;
+        private HERBERT[] data;
         private int index;
 
         public Boolean IsEmpty { get {
@@ -31,7 +31,7 @@ namespace Bundesbank.Collections
 
         public Stapel(int size)
         {
-            data = new int[size<1?10:size];
+            data = new HERBERT[size<1?10:size];
             index = 0;
         }
 
@@ -39,7 +39,7 @@ namespace Bundesbank.Collections
         /// Macht was tolles
         /// </summary>
         /// <param name="value">Teller zum Einfügen</param>
-        public void Push(int value) // Verhalten im Fehlerfall
+        public void Push(HERBERT value) // Verhalten im Fehlerfall
         {
             if (IsFull) return;
 
@@ -47,9 +47,9 @@ namespace Bundesbank.Collections
         }
 
 
-        public int Pop()  // Verhalten im Fehlerfall
+        public HERBERT Pop()  // Verhalten im Fehlerfall
         {
-            if (IsEmpty) return 0;
+            if (IsEmpty) return default;
             return data[--index];
         }
     }
