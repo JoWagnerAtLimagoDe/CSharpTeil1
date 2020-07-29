@@ -1,0 +1,13 @@
+C:\Users\JoachimWagner\source\repos\Tag2_01Stapel\Tag2_01Stapel\bin\Debug\netcoreapp3.1\Tag2_01Stapel.exe
+C:\Users\JoachimWagner\source\repos\Tag2_01Stapel\Tag2_01Stapel\bin\Debug\netcoreapp3.1\Tag2_01Stapel.deps.json
+C:\Users\JoachimWagner\source\repos\Tag2_01Stapel\Tag2_01Stapel\bin\Debug\netcoreapp3.1\Tag2_01Stapel.runtimeconfig.json
+C:\Users\JoachimWagner\source\repos\Tag2_01Stapel\Tag2_01Stapel\bin\Debug\netcoreapp3.1\Tag2_01Stapel.runtimeconfig.dev.json
+C:\Users\JoachimWagner\source\repos\Tag2_01Stapel\Tag2_01Stapel\bin\Debug\netcoreapp3.1\Tag2_01Stapel.dll
+C:\Users\JoachimWagner\source\repos\Tag2_01Stapel\Tag2_01Stapel\bin\Debug\netcoreapp3.1\Tag2_01Stapel.pdb
+C:\Users\JoachimWagner\source\repos\Tag2_01Stapel\Tag2_01Stapel\obj\Debug\netcoreapp3.1\Tag2_01Stapel.csprojAssemblyReference.cache
+C:\Users\JoachimWagner\source\repos\Tag2_01Stapel\Tag2_01Stapel\obj\Debug\netcoreapp3.1\Tag2_01Stapel.AssemblyInfoInputs.cache
+C:\Users\JoachimWagner\source\repos\Tag2_01Stapel\Tag2_01Stapel\obj\Debug\netcoreapp3.1\Tag2_01Stapel.AssemblyInfo.cs
+C:\Users\JoachimWagner\source\repos\Tag2_01Stapel\Tag2_01Stapel\obj\Debug\netcoreapp3.1\Tag2_01Stapel.csproj.CoreCompileInputs.cache
+C:\Users\JoachimWagner\source\repos\Tag2_01Stapel\Tag2_01Stapel\obj\Debug\netcoreapp3.1\Tag2_01Stapel.dll
+C:\Users\JoachimWagner\source\repos\Tag2_01Stapel\Tag2_01Stapel\obj\Debug\netcoreapp3.1\Tag2_01Stapel.pdb
+C:\Users\JoachimWagner\source\repos\Tag2_01Stapel\Tag2_01Stapel\obj\Debug\netcoreapp3.1\Tag2_01Stapel.genruntimeconfig.cache

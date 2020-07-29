@@ -1,0 +1,13 @@
+C:\Users\JoachimWagner\source\repos\Tag1_01Schwein\Tag1_01Schwein\bin\Debug\netcoreapp3.1\Tag1_01Schwein.exe
+C:\Users\JoachimWagner\source\repos\Tag1_01Schwein\Tag1_01Schwein\bin\Debug\netcoreapp3.1\Tag1_01Schwein.deps.json
+C:\Users\JoachimWagner\source\repos\Tag1_01Schwein\Tag1_01Schwein\bin\Debug\netcoreapp3.1\Tag1_01Schwein.runtimeconfig.json
+C:\Users\JoachimWagner\source\repos\Tag1_01Schwein\Tag1_01Schwein\bin\Debug\netcoreapp3.1\Tag1_01Schwein.runtimeconfig.dev.json
+C:\Users\JoachimWagner\source\repos\Tag1_01Schwein\Tag1_01Schwein\bin\Debug\netcoreapp3.1\Tag1_01Schwein.dll
+C:\Users\JoachimWagner\source\repos\Tag1_01Schwein\Tag1_01Schwein\bin\Debug\netcoreapp3.1\Tag1_01Schwein.pdb
+C:\Users\JoachimWagner\source\repos\Tag1_01Schwein\Tag1_01Schwein\obj\Debug\netcoreapp3.1\Tag1_01Schwein.csprojAssemblyReference.cache
+C:\Users\JoachimWagner\source\repos\Tag1_01Schwein\Tag1_01Schwein\obj\Debug\netcoreapp3.1\Tag1_01Schwein.AssemblyInfoInputs.cache
+C:\Users\JoachimWagner\source\repos\Tag1_01Schwein\Tag1_01Schwein\obj\Debug\netcoreapp3.1\Tag1_01Schwein.AssemblyInfo.cs
+C:\Users\JoachimWagner\source\repos\Tag1_01Schwein\Tag1_01Schwein\obj\Debug\netcoreapp3.1\Tag1_01Schwein.csproj.CoreCompileInputs.cache
+C:\Users\JoachimWagner\source\repos\Tag1_01Schwein\Tag1_01Schwein\obj\Debug\netcoreapp3.1\Tag1_01Schwein.dll
+C:\Users\JoachimWagner\source\repos\Tag1_01Schwein\Tag1_01Schwein\obj\Debug\netcoreapp3.1\Tag1_01Schwein.pdb
+C:\Users\JoachimWagner\source\repos\Tag1_01Schwein\Tag1_01Schwein\obj\Debug\netcoreapp3.1\Tag1_01Schwein.genruntimeconfig.cache

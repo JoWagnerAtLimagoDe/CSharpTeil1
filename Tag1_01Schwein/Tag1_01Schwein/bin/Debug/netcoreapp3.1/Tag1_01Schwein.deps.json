@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Tag1_01Schwein/1.0.0": {
+        "runtime": {
+          "Tag1_01Schwein.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Tag1_01Schwein/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

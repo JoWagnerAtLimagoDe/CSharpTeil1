@@ -1,0 +1,13 @@
+C:\Users\JoachimWagner\source\repos\GeometrieProjekt\GeometrieProjekt\bin\Debug\netcoreapp3.1\GeometrieProjekt.exe
+C:\Users\JoachimWagner\source\repos\GeometrieProjekt\GeometrieProjekt\bin\Debug\netcoreapp3.1\GeometrieProjekt.deps.json
+C:\Users\JoachimWagner\source\repos\GeometrieProjekt\GeometrieProjekt\bin\Debug\netcoreapp3.1\GeometrieProjekt.runtimeconfig.json
+C:\Users\JoachimWagner\source\repos\GeometrieProjekt\GeometrieProjekt\bin\Debug\netcoreapp3.1\GeometrieProjekt.runtimeconfig.dev.json
+C:\Users\JoachimWagner\source\repos\GeometrieProjekt\GeometrieProjekt\bin\Debug\netcoreapp3.1\GeometrieProjekt.dll
+C:\Users\JoachimWagner\source\repos\GeometrieProjekt\GeometrieProjekt\bin\Debug\netcoreapp3.1\GeometrieProjekt.pdb
+C:\Users\JoachimWagner\source\repos\GeometrieProjekt\GeometrieProjekt\obj\Debug\netcoreapp3.1\GeometrieProjekt.csprojAssemblyReference.cache
+C:\Users\JoachimWagner\source\repos\GeometrieProjekt\GeometrieProjekt\obj\Debug\netcoreapp3.1\GeometrieProjekt.AssemblyInfoInputs.cache
+C:\Users\JoachimWagner\source\repos\GeometrieProjekt\GeometrieProjekt\obj\Debug\netcoreapp3.1\GeometrieProjekt.AssemblyInfo.cs
+C:\Users\JoachimWagner\source\repos\GeometrieProjekt\GeometrieProjekt\obj\Debug\netcoreapp3.1\GeometrieProjekt.csproj.CoreCompileInputs.cache
+C:\Users\JoachimWagner\source\repos\GeometrieProjekt\GeometrieProjekt\obj\Debug\netcoreapp3.1\GeometrieProjekt.dll
+C:\Users\JoachimWagner\source\repos\GeometrieProjekt\GeometrieProjekt\obj\Debug\netcoreapp3.1\GeometrieProjekt.pdb
+C:\Users\JoachimWagner\source\repos\GeometrieProjekt\GeometrieProjekt\obj\Debug\netcoreapp3.1\GeometrieProjekt.genruntimeconfig.cache
