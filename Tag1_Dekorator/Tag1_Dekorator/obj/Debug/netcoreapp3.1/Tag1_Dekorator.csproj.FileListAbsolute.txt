@@ -1,0 +1,13 @@
+C:\Users\JoachimWagner\source\repos\Tag1_Dekorator\Tag1_Dekorator\bin\Debug\netcoreapp3.1\Tag1_Dekorator.exe
+C:\Users\JoachimWagner\source\repos\Tag1_Dekorator\Tag1_Dekorator\bin\Debug\netcoreapp3.1\Tag1_Dekorator.deps.json
+C:\Users\JoachimWagner\source\repos\Tag1_Dekorator\Tag1_Dekorator\bin\Debug\netcoreapp3.1\Tag1_Dekorator.runtimeconfig.json
+C:\Users\JoachimWagner\source\repos\Tag1_Dekorator\Tag1_Dekorator\bin\Debug\netcoreapp3.1\Tag1_Dekorator.runtimeconfig.dev.json
+C:\Users\JoachimWagner\source\repos\Tag1_Dekorator\Tag1_Dekorator\bin\Debug\netcoreapp3.1\Tag1_Dekorator.dll
+C:\Users\JoachimWagner\source\repos\Tag1_Dekorator\Tag1_Dekorator\bin\Debug\netcoreapp3.1\Tag1_Dekorator.pdb
+C:\Users\JoachimWagner\source\repos\Tag1_Dekorator\Tag1_Dekorator\obj\Debug\netcoreapp3.1\Tag1_Dekorator.csprojAssemblyReference.cache
+C:\Users\JoachimWagner\source\repos\Tag1_Dekorator\Tag1_Dekorator\obj\Debug\netcoreapp3.1\Tag1_Dekorator.AssemblyInfoInputs.cache
+C:\Users\JoachimWagner\source\repos\Tag1_Dekorator\Tag1_Dekorator\obj\Debug\netcoreapp3.1\Tag1_Dekorator.AssemblyInfo.cs
+C:\Users\JoachimWagner\source\repos\Tag1_Dekorator\Tag1_Dekorator\obj\Debug\netcoreapp3.1\Tag1_Dekorator.csproj.CoreCompileInputs.cache
+C:\Users\JoachimWagner\source\repos\Tag1_Dekorator\Tag1_Dekorator\obj\Debug\netcoreapp3.1\Tag1_Dekorator.dll
+C:\Users\JoachimWagner\source\repos\Tag1_Dekorator\Tag1_Dekorator\obj\Debug\netcoreapp3.1\Tag1_Dekorator.pdb
+C:\Users\JoachimWagner\source\repos\Tag1_Dekorator\Tag1_Dekorator\obj\Debug\netcoreapp3.1\Tag1_Dekorator.genruntimeconfig.cache
