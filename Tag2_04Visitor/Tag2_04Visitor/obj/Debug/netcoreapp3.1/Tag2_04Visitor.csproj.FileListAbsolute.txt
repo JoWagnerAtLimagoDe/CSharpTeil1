@@ -1,0 +1,13 @@
+C:\Users\JoachimWagner\source\repos\Tag2_04Visitor\Tag2_04Visitor\bin\Debug\netcoreapp3.1\Tag2_04Visitor.exe
+C:\Users\JoachimWagner\source\repos\Tag2_04Visitor\Tag2_04Visitor\bin\Debug\netcoreapp3.1\Tag2_04Visitor.deps.json
+C:\Users\JoachimWagner\source\repos\Tag2_04Visitor\Tag2_04Visitor\bin\Debug\netcoreapp3.1\Tag2_04Visitor.runtimeconfig.json
+C:\Users\JoachimWagner\source\repos\Tag2_04Visitor\Tag2_04Visitor\bin\Debug\netcoreapp3.1\Tag2_04Visitor.runtimeconfig.dev.json
+C:\Users\JoachimWagner\source\repos\Tag2_04Visitor\Tag2_04Visitor\bin\Debug\netcoreapp3.1\Tag2_04Visitor.dll
+C:\Users\JoachimWagner\source\repos\Tag2_04Visitor\Tag2_04Visitor\bin\Debug\netcoreapp3.1\Tag2_04Visitor.pdb
+C:\Users\JoachimWagner\source\repos\Tag2_04Visitor\Tag2_04Visitor\obj\Debug\netcoreapp3.1\Tag2_04Visitor.AssemblyInfoInputs.cache
+C:\Users\JoachimWagner\source\repos\Tag2_04Visitor\Tag2_04Visitor\obj\Debug\netcoreapp3.1\Tag2_04Visitor.AssemblyInfo.cs
+C:\Users\JoachimWagner\source\repos\Tag2_04Visitor\Tag2_04Visitor\obj\Debug\netcoreapp3.1\Tag2_04Visitor.csproj.CoreCompileInputs.cache
+C:\Users\JoachimWagner\source\repos\Tag2_04Visitor\Tag2_04Visitor\obj\Debug\netcoreapp3.1\Tag2_04Visitor.dll
+C:\Users\JoachimWagner\source\repos\Tag2_04Visitor\Tag2_04Visitor\obj\Debug\netcoreapp3.1\Tag2_04Visitor.pdb
+C:\Users\JoachimWagner\source\repos\Tag2_04Visitor\Tag2_04Visitor\obj\Debug\netcoreapp3.1\Tag2_04Visitor.genruntimeconfig.cache
+C:\Users\JoachimWagner\source\repos\Tag2_04Visitor\Tag2_04Visitor\obj\Debug\netcoreapp3.1\Tag2_04Visitor.csprojAssemblyReference.cache
