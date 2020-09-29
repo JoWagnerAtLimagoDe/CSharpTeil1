@@ -1,0 +1,13 @@
+C:\Users\JoachimWagner\source\repos\Tag2_05State\Tag2_05State\bin\Debug\netcoreapp3.1\Tag2_05State.exe
+C:\Users\JoachimWagner\source\repos\Tag2_05State\Tag2_05State\bin\Debug\netcoreapp3.1\Tag2_05State.deps.json
+C:\Users\JoachimWagner\source\repos\Tag2_05State\Tag2_05State\bin\Debug\netcoreapp3.1\Tag2_05State.runtimeconfig.json
+C:\Users\JoachimWagner\source\repos\Tag2_05State\Tag2_05State\bin\Debug\netcoreapp3.1\Tag2_05State.runtimeconfig.dev.json
+C:\Users\JoachimWagner\source\repos\Tag2_05State\Tag2_05State\bin\Debug\netcoreapp3.1\Tag2_05State.dll
+C:\Users\JoachimWagner\source\repos\Tag2_05State\Tag2_05State\bin\Debug\netcoreapp3.1\Tag2_05State.pdb
+C:\Users\JoachimWagner\source\repos\Tag2_05State\Tag2_05State\obj\Debug\netcoreapp3.1\Tag2_05State.csprojAssemblyReference.cache
+C:\Users\JoachimWagner\source\repos\Tag2_05State\Tag2_05State\obj\Debug\netcoreapp3.1\Tag2_05State.AssemblyInfoInputs.cache
+C:\Users\JoachimWagner\source\repos\Tag2_05State\Tag2_05State\obj\Debug\netcoreapp3.1\Tag2_05State.AssemblyInfo.cs
+C:\Users\JoachimWagner\source\repos\Tag2_05State\Tag2_05State\obj\Debug\netcoreapp3.1\Tag2_05State.csproj.CoreCompileInputs.cache
+C:\Users\JoachimWagner\source\repos\Tag2_05State\Tag2_05State\obj\Debug\netcoreapp3.1\Tag2_05State.dll
+C:\Users\JoachimWagner\source\repos\Tag2_05State\Tag2_05State\obj\Debug\netcoreapp3.1\Tag2_05State.pdb
+C:\Users\JoachimWagner\source\repos\Tag2_05State\Tag2_05State\obj\Debug\netcoreapp3.1\Tag2_05State.genruntimeconfig.cache

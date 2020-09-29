@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Tag2_05State/1.0.0": {
+        "runtime": {
+          "Tag2_05State.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Tag2_05State/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
