@@ -1,0 +1,12 @@
+C:\Users\JoachimWagner\source\repos\Tag3_01Template\Tag3_01Template\bin\Debug\netcoreapp3.1\Tag3_01Template.exe
+C:\Users\JoachimWagner\source\repos\Tag3_01Template\Tag3_01Template\bin\Debug\netcoreapp3.1\Tag3_01Template.deps.json
+C:\Users\JoachimWagner\source\repos\Tag3_01Template\Tag3_01Template\bin\Debug\netcoreapp3.1\Tag3_01Template.runtimeconfig.json
+C:\Users\JoachimWagner\source\repos\Tag3_01Template\Tag3_01Template\bin\Debug\netcoreapp3.1\Tag3_01Template.runtimeconfig.dev.json
+C:\Users\JoachimWagner\source\repos\Tag3_01Template\Tag3_01Template\bin\Debug\netcoreapp3.1\Tag3_01Template.dll
+C:\Users\JoachimWagner\source\repos\Tag3_01Template\Tag3_01Template\bin\Debug\netcoreapp3.1\Tag3_01Template.pdb
+C:\Users\JoachimWagner\source\repos\Tag3_01Template\Tag3_01Template\obj\Debug\netcoreapp3.1\Tag3_01Template.AssemblyInfoInputs.cache
+C:\Users\JoachimWagner\source\repos\Tag3_01Template\Tag3_01Template\obj\Debug\netcoreapp3.1\Tag3_01Template.AssemblyInfo.cs
+C:\Users\JoachimWagner\source\repos\Tag3_01Template\Tag3_01Template\obj\Debug\netcoreapp3.1\Tag3_01Template.csproj.CoreCompileInputs.cache
+C:\Users\JoachimWagner\source\repos\Tag3_01Template\Tag3_01Template\obj\Debug\netcoreapp3.1\Tag3_01Template.dll
+C:\Users\JoachimWagner\source\repos\Tag3_01Template\Tag3_01Template\obj\Debug\netcoreapp3.1\Tag3_01Template.pdb
+C:\Users\JoachimWagner\source\repos\Tag3_01Template\Tag3_01Template\obj\Debug\netcoreapp3.1\Tag3_01Template.genruntimeconfig.cache
