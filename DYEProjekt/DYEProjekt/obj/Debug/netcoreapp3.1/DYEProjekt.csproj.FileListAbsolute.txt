@@ -1,0 +1,13 @@
+C:\Users\JoachimWagner\source\repos\DYEProjekt\DYEProjekt\bin\Debug\netcoreapp3.1\DYEProjekt.exe
+C:\Users\JoachimWagner\source\repos\DYEProjekt\DYEProjekt\bin\Debug\netcoreapp3.1\DYEProjekt.deps.json
+C:\Users\JoachimWagner\source\repos\DYEProjekt\DYEProjekt\bin\Debug\netcoreapp3.1\DYEProjekt.runtimeconfig.json
+C:\Users\JoachimWagner\source\repos\DYEProjekt\DYEProjekt\bin\Debug\netcoreapp3.1\DYEProjekt.runtimeconfig.dev.json
+C:\Users\JoachimWagner\source\repos\DYEProjekt\DYEProjekt\bin\Debug\netcoreapp3.1\DYEProjekt.dll
+C:\Users\JoachimWagner\source\repos\DYEProjekt\DYEProjekt\bin\Debug\netcoreapp3.1\DYEProjekt.pdb
+C:\Users\JoachimWagner\source\repos\DYEProjekt\DYEProjekt\obj\Debug\netcoreapp3.1\DYEProjekt.csprojAssemblyReference.cache
+C:\Users\JoachimWagner\source\repos\DYEProjekt\DYEProjekt\obj\Debug\netcoreapp3.1\DYEProjekt.AssemblyInfoInputs.cache
+C:\Users\JoachimWagner\source\repos\DYEProjekt\DYEProjekt\obj\Debug\netcoreapp3.1\DYEProjekt.AssemblyInfo.cs
+C:\Users\JoachimWagner\source\repos\DYEProjekt\DYEProjekt\obj\Debug\netcoreapp3.1\DYEProjekt.csproj.CoreCompileInputs.cache
+C:\Users\JoachimWagner\source\repos\DYEProjekt\DYEProjekt\obj\Debug\netcoreapp3.1\DYEProjekt.dll
+C:\Users\JoachimWagner\source\repos\DYEProjekt\DYEProjekt\obj\Debug\netcoreapp3.1\DYEProjekt.pdb
+C:\Users\JoachimWagner\source\repos\DYEProjekt\DYEProjekt\obj\Debug\netcoreapp3.1\DYEProjekt.genruntimeconfig.cache
