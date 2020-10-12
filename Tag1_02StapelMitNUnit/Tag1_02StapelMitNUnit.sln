@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tag1_02StapelMitNUnit", "Tag1_02StapelMitNUnit\Tag1_02StapelMitNUnit.csproj", "{9BD134DE-A31D-4D3D-B9D2-2ED8C69DED5D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tag1_02StapelMitNUnitTests", "Tag1_02StapelMitNUnitTests\Tag1_02StapelMitNUnitTests.csproj", "{14732982-B0AA-4814-98DC-FF45A26EF1BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9BD134DE-A31D-4D3D-B9D2-2ED8C69DED5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BD134DE-A31D-4D3D-B9D2-2ED8C69DED5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BD134DE-A31D-4D3D-B9D2-2ED8C69DED5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BD134DE-A31D-4D3D-B9D2-2ED8C69DED5D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14732982-B0AA-4814-98DC-FF45A26EF1BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14732982-B0AA-4814-98DC-FF45A26EF1BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14732982-B0AA-4814-98DC-FF45A26EF1BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14732982-B0AA-4814-98DC-FF45A26EF1BF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {541D5BCA-AB76-469C-A45E-B75DBD4E141D}
+	EndGlobalSection
+EndGlobal

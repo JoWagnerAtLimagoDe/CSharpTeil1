@@ -1,0 +1,12 @@
+C:\Users\JoachimWagner\source\repos\Bundesbank\Tag1_02StapelMitNUnit\Tag1_02StapelMitNUnit\bin\Debug\netcoreapp3.1\Tag1_02StapelMitNUnit.exe
+C:\Users\JoachimWagner\source\repos\Bundesbank\Tag1_02StapelMitNUnit\Tag1_02StapelMitNUnit\bin\Debug\netcoreapp3.1\Tag1_02StapelMitNUnit.deps.json
+C:\Users\JoachimWagner\source\repos\Bundesbank\Tag1_02StapelMitNUnit\Tag1_02StapelMitNUnit\bin\Debug\netcoreapp3.1\Tag1_02StapelMitNUnit.runtimeconfig.json
+C:\Users\JoachimWagner\source\repos\Bundesbank\Tag1_02StapelMitNUnit\Tag1_02StapelMitNUnit\bin\Debug\netcoreapp3.1\Tag1_02StapelMitNUnit.runtimeconfig.dev.json
+C:\Users\JoachimWagner\source\repos\Bundesbank\Tag1_02StapelMitNUnit\Tag1_02StapelMitNUnit\bin\Debug\netcoreapp3.1\Tag1_02StapelMitNUnit.dll
+C:\Users\JoachimWagner\source\repos\Bundesbank\Tag1_02StapelMitNUnit\Tag1_02StapelMitNUnit\bin\Debug\netcoreapp3.1\Tag1_02StapelMitNUnit.pdb
+C:\Users\JoachimWagner\source\repos\Bundesbank\Tag1_02StapelMitNUnit\Tag1_02StapelMitNUnit\obj\Debug\netcoreapp3.1\Tag1_02StapelMitNUnit.AssemblyInfoInputs.cache
+C:\Users\JoachimWagner\source\repos\Bundesbank\Tag1_02StapelMitNUnit\Tag1_02StapelMitNUnit\obj\Debug\netcoreapp3.1\Tag1_02StapelMitNUnit.AssemblyInfo.cs
+C:\Users\JoachimWagner\source\repos\Bundesbank\Tag1_02StapelMitNUnit\Tag1_02StapelMitNUnit\obj\Debug\netcoreapp3.1\Tag1_02StapelMitNUnit.csproj.CoreCompileInputs.cache
+C:\Users\JoachimWagner\source\repos\Bundesbank\Tag1_02StapelMitNUnit\Tag1_02StapelMitNUnit\obj\Debug\netcoreapp3.1\Tag1_02StapelMitNUnit.dll
+C:\Users\JoachimWagner\source\repos\Bundesbank\Tag1_02StapelMitNUnit\Tag1_02StapelMitNUnit\obj\Debug\netcoreapp3.1\Tag1_02StapelMitNUnit.pdb
+C:\Users\JoachimWagner\source\repos\Bundesbank\Tag1_02StapelMitNUnit\Tag1_02StapelMitNUnit\obj\Debug\netcoreapp3.1\Tag1_02StapelMitNUnit.genruntimeconfig.cache
