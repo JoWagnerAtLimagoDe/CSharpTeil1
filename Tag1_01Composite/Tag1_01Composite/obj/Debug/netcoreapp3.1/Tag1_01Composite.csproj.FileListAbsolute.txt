@@ -1,0 +1,13 @@
+C:\Users\JoachimWagner\source\repos\Bundesbank\Tag1_01Composite\Tag1_01Composite\bin\Debug\netcoreapp3.1\Tag1_01Composite.exe
+C:\Users\JoachimWagner\source\repos\Bundesbank\Tag1_01Composite\Tag1_01Composite\bin\Debug\netcoreapp3.1\Tag1_01Composite.deps.json
+C:\Users\JoachimWagner\source\repos\Bundesbank\Tag1_01Composite\Tag1_01Composite\bin\Debug\netcoreapp3.1\Tag1_01Composite.runtimeconfig.json
+C:\Users\JoachimWagner\source\repos\Bundesbank\Tag1_01Composite\Tag1_01Composite\bin\Debug\netcoreapp3.1\Tag1_01Composite.runtimeconfig.dev.json
+C:\Users\JoachimWagner\source\repos\Bundesbank\Tag1_01Composite\Tag1_01Composite\bin\Debug\netcoreapp3.1\Tag1_01Composite.dll
+C:\Users\JoachimWagner\source\repos\Bundesbank\Tag1_01Composite\Tag1_01Composite\bin\Debug\netcoreapp3.1\Tag1_01Composite.pdb
+C:\Users\JoachimWagner\source\repos\Bundesbank\Tag1_01Composite\Tag1_01Composite\obj\Debug\netcoreapp3.1\Tag1_01Composite.csprojAssemblyReference.cache
+C:\Users\JoachimWagner\source\repos\Bundesbank\Tag1_01Composite\Tag1_01Composite\obj\Debug\netcoreapp3.1\Tag1_01Composite.AssemblyInfoInputs.cache
+C:\Users\JoachimWagner\source\repos\Bundesbank\Tag1_01Composite\Tag1_01Composite\obj\Debug\netcoreapp3.1\Tag1_01Composite.AssemblyInfo.cs
+C:\Users\JoachimWagner\source\repos\Bundesbank\Tag1_01Composite\Tag1_01Composite\obj\Debug\netcoreapp3.1\Tag1_01Composite.csproj.CoreCompileInputs.cache
+C:\Users\JoachimWagner\source\repos\Bundesbank\Tag1_01Composite\Tag1_01Composite\obj\Debug\netcoreapp3.1\Tag1_01Composite.dll
+C:\Users\JoachimWagner\source\repos\Bundesbank\Tag1_01Composite\Tag1_01Composite\obj\Debug\netcoreapp3.1\Tag1_01Composite.pdb
+C:\Users\JoachimWagner\source\repos\Bundesbank\Tag1_01Composite\Tag1_01Composite\obj\Debug\netcoreapp3.1\Tag1_01Composite.genruntimeconfig.cache
