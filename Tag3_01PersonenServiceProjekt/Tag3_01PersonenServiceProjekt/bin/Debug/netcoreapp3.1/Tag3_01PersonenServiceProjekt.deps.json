@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Tag3_01PersonenServiceProjekt/1.0.0": {
+        "runtime": {
+          "Tag3_01PersonenServiceProjekt.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Tag3_01PersonenServiceProjekt/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
