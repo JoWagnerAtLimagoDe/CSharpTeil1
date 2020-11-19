@@ -5,24 +5,23 @@ using System.Text;
 
 namespace Bundesbank.Spiele.Nimmspiel.Player
 {
-    public class ComputerPlayer : AbstractPlayer<int, int>
+    public class Oma: AbstractPlayer<int, int>
     {
         private readonly int[] zuege = { 3, 1, 1, 2 };
 
-        public ComputerPlayer()
+        public Oma()
         {
         }
 
-        public ComputerPlayer(string name) : base(name)
+        public Oma(string name) : base(name)
         {
         }
 
         public override int DoMove(int stones)
         {
+            Random random = new Random();
+            return random.Next(1, 4);
            
-            int zug = zuege[stones % 4];
-            Console.WriteLine($"Computer nimmt {zug} Steine.");
-            return zug;
         }
     }
 }

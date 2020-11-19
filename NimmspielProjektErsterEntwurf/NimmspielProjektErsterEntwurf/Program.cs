@@ -10,10 +10,10 @@ namespace NimmspielProjektErsterEntwurf
     {
         static void Main(string[] args)
         {
-            TakeGameImpl game = new TakeGameImpl();
+            AbstractGame<int,int> game = new TakeGameImpl();
             game.AddPlayer(new HumanPlayer());
-            game.AddPlayer(new ComputerPlayer());
-
+            //game.AddPlayer(new ComputerPlayer());
+            game.AddPlayer(new Oma());
             GameClient client = new GameClient(game);
             client.go();
         }

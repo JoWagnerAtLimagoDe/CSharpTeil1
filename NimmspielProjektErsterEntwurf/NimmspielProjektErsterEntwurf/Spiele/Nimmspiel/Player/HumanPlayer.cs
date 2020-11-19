@@ -1,10 +1,9 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
+﻿using Bundesbank.Spiele.GamePlayer;
+using System;
 
 namespace Bundesbank.Spiele.Nimmspiel.Player
 {
-    public class HumanPlayer : AbstractTakeGamePlayer
+    public class HumanPlayer : AbstractPlayer<int,int>
     {
         public HumanPlayer()
         {
@@ -14,7 +13,7 @@ namespace Bundesbank.Spiele.Nimmspiel.Player
         {
         }
 
-        public override int Turn(int stones)
+        public override int DoMove(int stones)
         {
             Console.WriteLine ($"Es gibt {stones} Steine. Bitte nehmen Sie 1,2 oder 3");
             return Int32.Parse(Console.ReadLine());
