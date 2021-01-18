@@ -1,0 +1,16 @@
+C:\Users\JoachimWagner\source\repos\bundesbank\JobLauncherProjekt\JobLauncherProjekt\bin\Debug\netcoreapp3.1\JobLauncherProjekt.exe
+C:\Users\JoachimWagner\source\repos\bundesbank\JobLauncherProjekt\JobLauncherProjekt\bin\Debug\netcoreapp3.1\JobLauncherProjekt.deps.json
+C:\Users\JoachimWagner\source\repos\bundesbank\JobLauncherProjekt\JobLauncherProjekt\bin\Debug\netcoreapp3.1\JobLauncherProjekt.runtimeconfig.json
+C:\Users\JoachimWagner\source\repos\bundesbank\JobLauncherProjekt\JobLauncherProjekt\bin\Debug\netcoreapp3.1\JobLauncherProjekt.runtimeconfig.dev.json
+C:\Users\JoachimWagner\source\repos\bundesbank\JobLauncherProjekt\JobLauncherProjekt\bin\Debug\netcoreapp3.1\JobLauncherProjekt.dll
+C:\Users\JoachimWagner\source\repos\bundesbank\JobLauncherProjekt\JobLauncherProjekt\bin\Debug\netcoreapp3.1\JobLauncherProjekt.pdb
+C:\Users\JoachimWagner\source\repos\bundesbank\JobLauncherProjekt\JobLauncherProjekt\obj\Debug\netcoreapp3.1\JobLauncherProjekt.csprojAssemblyReference.cache
+C:\Users\JoachimWagner\source\repos\bundesbank\JobLauncherProjekt\JobLauncherProjekt\obj\Debug\netcoreapp3.1\JobLauncherProjekt.AssemblyInfoInputs.cache
+C:\Users\JoachimWagner\source\repos\bundesbank\JobLauncherProjekt\JobLauncherProjekt\obj\Debug\netcoreapp3.1\JobLauncherProjekt.AssemblyInfo.cs
+C:\Users\JoachimWagner\source\repos\bundesbank\JobLauncherProjekt\JobLauncherProjekt\obj\Debug\netcoreapp3.1\JobLauncherProjekt.csproj.CoreCompileInputs.cache
+C:\Users\JoachimWagner\source\repos\bundesbank\JobLauncherProjekt\JobLauncherProjekt\obj\Debug\netcoreapp3.1\JobLauncherProjekt.dll
+C:\Users\JoachimWagner\source\repos\bundesbank\JobLauncherProjekt\JobLauncherProjekt\obj\Debug\netcoreapp3.1\JobLauncherProjekt.pdb
+C:\Users\JoachimWagner\source\repos\bundesbank\JobLauncherProjekt\JobLauncherProjekt\obj\Debug\netcoreapp3.1\JobLauncherProjekt.genruntimeconfig.cache
+C:\Users\JoachimWagner\source\repos\bundesbank\JobLauncherProjekt\JobLauncherProjekt\bin\Debug\netcoreapp3.1\RicisBatch.dll
+C:\Users\JoachimWagner\source\repos\bundesbank\JobLauncherProjekt\JobLauncherProjekt\bin\Debug\netcoreapp3.1\RicisBatch.pdb
+C:\Users\JoachimWagner\source\repos\bundesbank\JobLauncherProjekt\JobLauncherProjekt\obj\Debug\netcoreapp3.1\JobLauncherProjekt.csproj.CopyComplete

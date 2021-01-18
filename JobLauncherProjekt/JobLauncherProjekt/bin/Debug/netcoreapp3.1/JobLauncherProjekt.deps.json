@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "JobLauncherProjekt/1.0.0": {
+        "dependencies": {
+          "RicisBatch": "1.0.0"
+        },
+        "runtime": {
+          "JobLauncherProjekt.dll": {}
+        }
+      },
+      "RicisBatch/1.0.0": {
+        "runtime": {
+          "RicisBatch.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "JobLauncherProjekt/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RicisBatch/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

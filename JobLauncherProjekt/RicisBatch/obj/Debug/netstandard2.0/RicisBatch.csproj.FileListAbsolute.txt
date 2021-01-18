@@ -1,0 +1,9 @@
+C:\Users\JoachimWagner\source\repos\bundesbank\JobLauncherProjekt\RicisBatch\bin\Debug\netstandard2.0\RicisBatch.deps.json
+C:\Users\JoachimWagner\source\repos\bundesbank\JobLauncherProjekt\RicisBatch\bin\Debug\netstandard2.0\RicisBatch.dll
+C:\Users\JoachimWagner\source\repos\bundesbank\JobLauncherProjekt\RicisBatch\bin\Debug\netstandard2.0\RicisBatch.pdb
+C:\Users\JoachimWagner\source\repos\bundesbank\JobLauncherProjekt\RicisBatch\obj\Debug\netstandard2.0\RicisBatch.csprojAssemblyReference.cache
+C:\Users\JoachimWagner\source\repos\bundesbank\JobLauncherProjekt\RicisBatch\obj\Debug\netstandard2.0\RicisBatch.AssemblyInfoInputs.cache
+C:\Users\JoachimWagner\source\repos\bundesbank\JobLauncherProjekt\RicisBatch\obj\Debug\netstandard2.0\RicisBatch.AssemblyInfo.cs
+C:\Users\JoachimWagner\source\repos\bundesbank\JobLauncherProjekt\RicisBatch\obj\Debug\netstandard2.0\RicisBatch.csproj.CoreCompileInputs.cache
+C:\Users\JoachimWagner\source\repos\bundesbank\JobLauncherProjekt\RicisBatch\obj\Debug\netstandard2.0\RicisBatch.dll
+C:\Users\JoachimWagner\source\repos\bundesbank\JobLauncherProjekt\RicisBatch\obj\Debug\netstandard2.0\RicisBatch.pdb
