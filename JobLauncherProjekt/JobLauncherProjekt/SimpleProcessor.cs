@@ -4,13 +4,14 @@ using System.Collections.Generic;
 
 namespace JobLauncherProjekt
 {
-    public class SimpleProcessor:IProcessor<string,string>
+    public class SimpleProcessor:IProcessor<FxRateItem,string>
     {
         public IList<JobParameter> JobParameters { get; set; }
 
-        public string Process(string p)
+        public string Process(FxRateItem item)
         {
-            return p.ToUpper();
+            if (item.Value > 100) return null;
+            return item.ToString();
         }
     }
 }

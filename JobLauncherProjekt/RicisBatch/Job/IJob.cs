@@ -10,5 +10,7 @@ namespace RicisBatch.Job
         IJob RegisterStep(IStep step);
         IJob RegisterParameter(JobParameter parameter);
         void Execute();
+        void Init();
+        void Dispose();
     }
 }

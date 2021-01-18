@@ -14,3 +14,17 @@ C:\Users\JoachimWagner\source\repos\bundesbank\JobLauncherProjekt\JobLauncherPro
 C:\Users\JoachimWagner\source\repos\bundesbank\JobLauncherProjekt\JobLauncherProjekt\bin\Debug\netcoreapp3.1\RicisBatch.dll
 C:\Users\JoachimWagner\source\repos\bundesbank\JobLauncherProjekt\JobLauncherProjekt\bin\Debug\netcoreapp3.1\RicisBatch.pdb
 C:\Users\JoachimWagner\source\repos\bundesbank\JobLauncherProjekt\JobLauncherProjekt\obj\Debug\netcoreapp3.1\JobLauncherProjekt.csproj.CopyComplete
+C:\Users\JoachimWagner\source\repos\bundesbank\JobLauncherProjekt\JobLauncherProjekt\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\JoachimWagner\source\repos\bundesbank\JobLauncherProjekt\JobLauncherProjekt\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\JoachimWagner\source\repos\bundesbank\JobLauncherProjekt\JobLauncherProjekt\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\JoachimWagner\source\repos\bundesbank\JobLauncherProjekt\JobLauncherProjekt\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\JoachimWagner\source\repos\bundesbank\JobLauncherProjekt\JobLauncherProjekt\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\JoachimWagner\source\repos\bundesbank\JobLauncherProjekt\JobLauncherProjekt\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\JoachimWagner\source\repos\bundesbank\JobLauncherProjekt\JobLauncherProjekt\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\JoachimWagner\source\repos\bundesbank\JobLauncherProjekt\JobLauncherProjekt\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\JoachimWagner\source\repos\bundesbank\JobLauncherProjekt\JobLauncherProjekt\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Console.dll
+C:\Users\JoachimWagner\source\repos\bundesbank\JobLauncherProjekt\JobLauncherProjekt\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\JoachimWagner\source\repos\bundesbank\JobLauncherProjekt\JobLauncherProjekt\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\JoachimWagner\source\repos\bundesbank\JobLauncherProjekt\JobLauncherProjekt\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\JoachimWagner\source\repos\bundesbank\JobLauncherProjekt\JobLauncherProjekt\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\JoachimWagner\source\repos\bundesbank\JobLauncherProjekt\JobLauncherProjekt\bin\Debug\netcoreapp3.1\System.Text.Json.dll

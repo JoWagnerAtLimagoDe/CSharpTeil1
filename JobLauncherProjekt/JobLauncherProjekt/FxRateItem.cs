@@ -4,6 +4,18 @@ namespace JobLauncherProjekt
 {
     public class FxRateItem
     {
+        public FxRateItem()
+        {
+            
+        }
+        public FxRateItem(string name, string remarks, DateTime date, double value)
+        {
+            Name = name;
+            Remarks = remarks;
+            Date = date;
+            Value = value;
+        }
+
         public string Name { get; set; }
         public string Remarks { get; set; }
 
