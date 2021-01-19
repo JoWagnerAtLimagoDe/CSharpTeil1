@@ -5,7 +5,7 @@ namespace RicisBatch.Step.ChunkStep
 {
     public interface IReader<out T>
     {
-        IList<JobParameter> JobParameters { get; set; }
+        void SetJobParameter(IDictionary<string, object> parameters);
         IEnumerable<T> GetEnumerator();
     }
 }

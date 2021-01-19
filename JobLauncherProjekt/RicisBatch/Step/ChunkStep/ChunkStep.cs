@@ -21,8 +21,6 @@ namespace RicisBatch.Step.ChunkStep
             //ILoggerFactory loggerFactory = new LoggerFactory();
 
             ILoggerFactory loggerFactory = LoggerFactory.Create(builder => builder.AddConsole());
-           
-
             logger = loggerFactory.CreateLogger< ChunkStep<R, W>>();
             
         }
@@ -32,7 +30,7 @@ namespace RicisBatch.Step.ChunkStep
         public ChunkStep<R, W> InitReader(IReader<R> reader)
         {
             Reader = reader;
-            Reader.JobParameters = JobParameters;
+            
             logger.Log(LogLevel.Information, "Reader wurde registriert");
             return this;
         }
@@ -40,7 +38,7 @@ namespace RicisBatch.Step.ChunkStep
         public ChunkStep<R, W> InitProcessor(IProcessor<R,W> processor)
         {
             Processor = processor;
-            Processor.JobParameters = JobParameters;
+            
             logger.Log(LogLevel.Information, "Processor wurde registriert");
             return this;
         }
@@ -48,42 +46,35 @@ namespace RicisBatch.Step.ChunkStep
         public ChunkStep<R, W> InitWriter(IWriter<W> writer)
         {
             Writer = writer;
-            Writer.JobParameters = JobParameters;
+            
             logger.Log(LogLevel.Information, "Writer wurde registriert");
             return this;
         }
 
-
+        
         public override StepState Execute()
         {
 
             try
             {
-                return Transactionsklammer();
+                ExcecuteImpl();
+                return StepState.Success;
             }
             catch (Exception e)
             {
-                logger.Log(LogLevel.Error, e, "Transaction rollback");
+                logger.Log(LogLevel.Error, e, "Fehler beim Verarbeiten des Chunkstep");
                 
                 return StepState.Failure;
             }
         }
 
-        private StepState Transactionsklammer()
-        {
-            using (TransactionScope transactionScope = new TransactionScope())
-            {
-                ExcecuteImpl();
-
-                transactionScope.Complete();
-            }
-            logger.Log(LogLevel.Information, "Transaction commited");
-            return StepState.Success;
-        }
 
         private void ExcecuteImpl()
         {
             logger.Log(LogLevel.Debug, "Starte Verarbeitung");
+            Reader.SetJobParameter(Parameters);
+            Processor.SetJobParameter(Parameters);
+            Writer.SetJobParameter(Parameters);
             foreach (R item in Reader.GetEnumerator())
             {
                 var ergebnis = Processor.Process(item);

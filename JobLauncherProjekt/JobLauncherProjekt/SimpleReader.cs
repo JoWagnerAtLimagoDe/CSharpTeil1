@@ -8,20 +8,17 @@ using System.Security.Cryptography.X509Certificates;
 
 namespace JobLauncherProjekt
 {
-    public class SimpleReader: IReader<FxRateItem>
+    public class SimpleReader: AbstractReader<FxRateItem>
     {
-        public IList<JobParameter> JobParameters { get; set; }
-        public IEnumerable<FxRateItem> GetEnumerator()
+
+       
+
+
+        public override  IEnumerable<FxRateItem> GetEnumerator()
         {
-            // string filename = "";
-            // foreach (var jobParameter in JobParameters)
-            // {
-            //     if (jobParameter.Parametername == "filename")
-            //     {
-            //         filename = (string)jobParameter.Value;
-            //     }
-            // }
-            using (var reader = new StreamReader("c:\\tmp\\210115_FX_Res.cs"))
+           
+           
+            using (var reader = new StreamReader((string)Parameters["filename"]))
             {
                
                 

@@ -6,9 +6,9 @@ namespace RicisBatch.Job
 {
     public interface IJob
     {
-        IList<JobParameter> GetParameters();
-        IJob RegisterStep(IStep step);
-        IJob RegisterParameter(JobParameter parameter);
+       
+        IJob Step(IStep step);
+        IJob RegisterParameter(string key, object value);
         void Execute();
         void Init();
         void Dispose();

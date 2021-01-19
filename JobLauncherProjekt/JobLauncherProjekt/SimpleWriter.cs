@@ -5,12 +5,15 @@ using RicisBatch.Job;
 
 namespace JobLauncherProjekt
 {
-    public class SimpleWriter:IWriter<string>
+    public class SimpleWriter:AbstractWriter<string>
     {
-        public IList<JobParameter> JobParameters { get; set; }
-        public void Write(string t)
+       
+        
+        
+        public override  void Write(string t)
         {
             Console.WriteLine(t);
+           ( (IList<string>)Parameters["aggregatorList"]).Add(t);
             
         }
     }

@@ -5,7 +5,7 @@ namespace RicisBatch.Step.ChunkStep
 {
     public interface IWriter<in T>
     {
-        IList<JobParameter> JobParameters { get; set; }
+        void SetJobParameter(IDictionary<string, object> parameters);
         void Write(T t);
     }
 }

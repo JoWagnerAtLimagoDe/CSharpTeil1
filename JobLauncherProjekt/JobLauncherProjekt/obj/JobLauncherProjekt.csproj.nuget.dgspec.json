@@ -104,6 +104,10 @@
         "netstandard2.0": {
           "targetAlias": "netstandard2.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Mvc.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
             "Microsoft.Extensions.Logging": {
               "target": "Package",
               "version": "[5.0.0, )"
@@ -117,6 +121,10 @@
               "target": "Package",
               "version": "[2.0.3, )",
               "autoReferenced": true
+            },
+            "System.Reflection.DispatchProxy": {
+              "target": "Package",
+              "version": "[4.7.1, )"
             }
           },
           "imports": [

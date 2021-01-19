@@ -5,11 +5,18 @@ namespace RicisBatch.Step
 {
     public abstract class AbstractStep:IStep
     {
-        public IList<JobParameter> JobParameters { get; set; } = new List<JobParameter>();
+        protected IDictionary<string, object> Parameters { get; private set; }
+
         public void Init()
         {
-            // Ok
+            Parameters = new Dictionary<string, object>();
         }
+
+        public void Init(IDictionary<string, object> parameters)
+        {
+            Parameters = parameters;
+        }
+
 
         public void Dispose()
         {

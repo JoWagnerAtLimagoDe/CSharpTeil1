@@ -1,33 +1,39 @@
 ﻿using RicisBatch.Step;
 using System;
 using System.Collections.Generic;
+using System.Transactions;
 
 namespace RicisBatch.Job
 {
     public class Job:IJob
     {
-        private readonly IList<JobParameter> Parameters;
+        private readonly IDictionary<string, object> Parameters;
         private readonly IList<IStep> Steps = new List<IStep>();
 
-        public Job(IList<JobParameter> parameters)
+        public Job()
+        {
+            Parameters = new Dictionary<string, object>();
+        }
+        
+        public Job(IDictionary<string, object> parameters)
         {
             Parameters = parameters;
         }
-        public IList<JobParameter> GetParameters()
+        public IDictionary<string, object> GetParameters()
         {
             return Parameters;
         }
 
-        public IJob RegisterStep(IStep step)
+        public IJob Step(IStep step)
         {
-            step.JobParameters = Parameters;
+            
             Steps.Add(step);
             return this;
         }
 
-        public IJob RegisterParameter(JobParameter parameter)
+        public IJob RegisterParameter(string key, object value)
         {
-            Parameters.Add(parameter);
+            Parameters.Add(key,value);
             return this;
         }
 
@@ -35,10 +41,22 @@ namespace RicisBatch.Job
         {
             foreach (var step in Steps)
             {
-                step.Init();
-                
-                if (step.Execute() != StepState.Success)
-                    throw new Exception("Upps"); // Todo Fix This
+                step.Init(Parameters);
+
+                using (var scope = new TransactionScope())
+                {
+                    if (step.Execute() != StepState.Success)
+                        throw new Exception("Upps"); // Todo Fix This
+                        
+                    scope.Complete();
+                   
+                }
+
+               
+                //StepState result = (StepState) Ext.Atomic(() => step.Execute());
+
+                //if (result!= StepState.Success)
+                //    throw new Exception("Upps"); // Todo Fix This
 
                 step.Dispose();
             }

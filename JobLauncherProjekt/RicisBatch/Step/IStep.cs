@@ -5,7 +5,7 @@ namespace RicisBatch.Step
 {
     public interface IStep
     {
-        IList<JobParameter> JobParameters { get; set; }
+        void Init(IDictionary<string, object> parameters);
         void Init();
         StepState Execute();
 

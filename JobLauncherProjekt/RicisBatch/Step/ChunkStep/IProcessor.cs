@@ -3,9 +3,10 @@ using System.Collections.Generic;
 
 namespace RicisBatch.Step.ChunkStep
 {
-    public interface IProcessor<in P, out R> {
+    public interface IProcessor<in P, out R>
+    {
 
-        IList<JobParameter> JobParameters { get; set; }
+        void SetJobParameter(IDictionary<string, object> parameters);
         R Process(P p);
         
     }
