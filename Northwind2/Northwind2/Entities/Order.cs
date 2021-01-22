@@ -31,5 +31,10 @@ namespace Northwind2.Entities
         public virtual Employee Employee { get; set; }
         public virtual Shipper ShipViaNavigation { get; set; }
         public virtual ICollection<OrderDetail> OrderDetails { get; set; }
+
+        public override string ToString()
+        {
+            return $"{nameof(OrderId)}: {OrderId}, {nameof(CustomerId)}: {CustomerId}, {nameof(OrderDate)}: {OrderDate}, {nameof(Customer)}: {Customer}";
+        }
     }
 }
