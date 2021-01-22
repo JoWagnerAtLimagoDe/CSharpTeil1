@@ -1,0 +1,16 @@
+C:\Users\JoachimWagner\source\repos\DependecyDemoProjekt\DependecyDemoProjekt\bin\Debug\netcoreapp3.1\DependencyDemoProjekt.exe
+C:\Users\JoachimWagner\source\repos\DependecyDemoProjekt\DependecyDemoProjekt\bin\Debug\netcoreapp3.1\DependencyDemoProjekt.deps.json
+C:\Users\JoachimWagner\source\repos\DependecyDemoProjekt\DependecyDemoProjekt\bin\Debug\netcoreapp3.1\DependencyDemoProjekt.runtimeconfig.json
+C:\Users\JoachimWagner\source\repos\DependecyDemoProjekt\DependecyDemoProjekt\bin\Debug\netcoreapp3.1\DependencyDemoProjekt.runtimeconfig.dev.json
+C:\Users\JoachimWagner\source\repos\DependecyDemoProjekt\DependecyDemoProjekt\bin\Debug\netcoreapp3.1\DependencyDemoProjekt.dll
+C:\Users\JoachimWagner\source\repos\DependecyDemoProjekt\DependecyDemoProjekt\bin\Debug\netcoreapp3.1\DependencyDemoProjekt.pdb
+C:\Users\JoachimWagner\source\repos\DependecyDemoProjekt\DependecyDemoProjekt\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\JoachimWagner\source\repos\DependecyDemoProjekt\DependecyDemoProjekt\obj\Debug\netcoreapp3.1\DependencyDemoProjekt.csprojAssemblyReference.cache
+C:\Users\JoachimWagner\source\repos\DependecyDemoProjekt\DependecyDemoProjekt\obj\Debug\netcoreapp3.1\DependencyDemoProjekt.AssemblyInfoInputs.cache
+C:\Users\JoachimWagner\source\repos\DependecyDemoProjekt\DependecyDemoProjekt\obj\Debug\netcoreapp3.1\DependencyDemoProjekt.AssemblyInfo.cs
+C:\Users\JoachimWagner\source\repos\DependecyDemoProjekt\DependecyDemoProjekt\obj\Debug\netcoreapp3.1\DependencyDemoProjekt.csproj.CoreCompileInputs.cache
+C:\Users\JoachimWagner\source\repos\DependecyDemoProjekt\DependecyDemoProjekt\obj\Debug\netcoreapp3.1\DependencyDemoProjekt.csproj.CopyComplete
+C:\Users\JoachimWagner\source\repos\DependecyDemoProjekt\DependecyDemoProjekt\obj\Debug\netcoreapp3.1\DependencyDemoProjekt.dll
+C:\Users\JoachimWagner\source\repos\DependecyDemoProjekt\DependecyDemoProjekt\obj\Debug\netcoreapp3.1\DependencyDemoProjekt.pdb
+C:\Users\JoachimWagner\source\repos\DependecyDemoProjekt\DependecyDemoProjekt\obj\Debug\netcoreapp3.1\DependencyDemoProjekt.genruntimeconfig.cache
+C:\Users\JoachimWagner\source\repos\DependecyDemoProjekt\DependecyDemoProjekt\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
