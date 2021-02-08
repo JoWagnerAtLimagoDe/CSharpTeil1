@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "N6h5npvCDwwtqi1uzK7DXvJbS5fmw4WAPs/iX+SL8V7lNGKBn6A3bRPwUy3N/GmnGRzZdFDhH77VogSQH9tbfQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\JoachimWagner\\source\\repos\\Bundesbank\\PersonenWeb\\PersonenWeb\\PersonenWeb.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\JoachimWagner\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\JoachimWagner\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\JoachimWagner\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\JoachimWagner\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\JoachimWagner\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\JoachimWagner\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
