@@ -1,0 +1,56 @@
+﻿@page
+@model RazorPagesMovie.Pages.Personen.PersonModel
+@{
+}
+
+
+<h1>Hallo Person</h1>
+
+@Html.DisplayFor(model => model.Person.Id)
+<br />
+@Html.DisplayFor(model => model.Person.Vorname)
+<br />
+@Html.DisplayFor(model => model.Person.Nachname)
+<br />
+
+
+
+<div class="row">
+<div class="col-md-4">
+    <form method="post">
+        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+        <!--input type="hidden" asp-for="Person.Id" /-->
+        <div class="form-group">
+            <label asp-for="Person.Id" class="control-label"></label>
+            <input asp-for="Person.Id" class="form-control" />
+            <span asp-validation-for="Person.Id" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="Person.Vorname" class="control-label"></label>
+            <input asp-for="Person.Vorname" class="form-control" />
+            <span asp-validation-for="Person.Vorname" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="Person.Nachname" class="control-label"></label>
+            <input asp-for="Person.Nachname" class="form-control" />
+            <span asp-validation-for="Person.Nachname" class="text-danger"></span>
+        </div>
+
+        <div class="form-group">
+            <input type="submit" value="Save" class="btn btn-primary" name="action"/>
+            <input type="submit" value="Delete" class="btn btn-primary" name="action"/>
+        </div>
+    </form>
+</div>
+</div>
+
+
+<!--
+<form action="url" method="post">
+    
+    Vorname <input type="text" name="Vorname"/>
+    <input type="submit" value="Senden"/>
+
+</form>
+    
+-->

@@ -1,0 +1,29 @@
+﻿@page
+@model RazorPagesMovie.Pages.Joe.JoeModel
+
+@{
+    ViewData["Title"] = "Create";
+    
+}
+<div>
+    <h4>Movie</h4>
+    <h1>@ViewData["jw"]</h1>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayFor(model => model.Person.Id)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Person.Vorname)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayFor(model => model.Person.Nachname)
+        </dt>
+
+    </dl>
+    <form method="post">
+        <button asp-page-handler="Jane">Mach Jane</button>
+        <button asp-page-handler="Wayne">Mach Wayne</button>
+    </form>
+
+</div>
