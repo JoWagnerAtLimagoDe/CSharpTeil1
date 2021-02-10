@@ -9,15 +9,18 @@ namespace LangerMann.Services
 {
     public class PersonenService: IPersonenService
     {
-        private PersonenRepository Repository { get; }
+        private IPersonenRepository Repository { get; }
 
-        public PersonenService(PersonenRepository personenRepository)
+        public PersonenService(IPersonenRepository personenRepository)
         {
             Repository = personenRepository;
         }
 
         public bool Speichern(Person person)// SaveOrUpdate
         {
+            
+            // Fachliche Prüfungen
+            
             bool retval;
             Person p = Repository.GetById(person.PersonId);
             if (p == null)
@@ -60,12 +63,12 @@ namespace LangerMann.Services
 
         public IList<Person> FindeAlle()
         {
-            throw new NotImplementedException();
+            return Repository.GetAll().ToList();
         }
 
         public Person FindeMitId(Guid id)
         {
-            throw new NotImplementedException();
+            return Repository.GetById(id);
         }
     }
 }
