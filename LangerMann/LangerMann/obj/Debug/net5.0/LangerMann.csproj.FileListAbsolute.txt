@@ -148,4 +148,3 @@ C:\Users\JoachimWagner\source\repos\Bundesbank\LangerMann\LangerMann\obj\Debug\n
 C:\Users\JoachimWagner\source\repos\Bundesbank\LangerMann\LangerMann\obj\Debug\net5.0\ref\LangerMann.dll
 C:\Users\JoachimWagner\source\repos\Bundesbank\LangerMann\LangerMann\obj\Debug\net5.0\LangerMann.pdb
 C:\Users\JoachimWagner\source\repos\Bundesbank\LangerMann\LangerMann\obj\Debug\net5.0\LangerMann.genruntimeconfig.cache
-C:\Users\JoachimWagner\source\repos\Bundesbank\LangerMann\LangerMann\obj\Debug\net5.0\LangerMann.csprojAssemblyReference.cache
