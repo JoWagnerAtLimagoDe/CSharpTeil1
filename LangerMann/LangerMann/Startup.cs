@@ -1,4 +1,6 @@
 using LangerMann.Data;
+using LangerMann.Repositories;
+using LangerMann.Services;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.EntityFrameworkCore;
@@ -29,6 +31,9 @@ namespace LangerMann
                     .UseLoggerFactory(loggerFactory)
                     .EnableSensitiveDataLogging()
                     .UseSqlServer("Server=.;Database=buba;Trusted_Connection=True;MultipleActiveResultSets=True"));
+
+            services.AddScoped<IPersonenRepository, PersonenRepository>();
+            services.AddScoped<IPersonenService, PersonenService>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
