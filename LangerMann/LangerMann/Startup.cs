@@ -5,11 +5,14 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
+using Microsoft.Extensions.Logging;
 
 namespace LangerMann
 {
     public class Startup
     {
+
+        private ILoggerFactory loggerFactory = LoggerFactory.Create(builder => builder.AddConsole());
         public Startup(IConfiguration configuration)
         {
             Configuration = configuration;
@@ -22,7 +25,10 @@ namespace LangerMann
         {
             services.AddRazorPages();
             services.AddDbContext<BundesbankContext>(options =>
-                options.UseSqlServer("Server=.;Database=buba;Trusted_Connection=True;MultipleActiveResultSets=True"));
+                options
+                    .UseLoggerFactory(loggerFactory)
+                    .EnableSensitiveDataLogging()
+                    .UseSqlServer("Server=.;Database=buba;Trusted_Connection=True;MultipleActiveResultSets=True"));
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
