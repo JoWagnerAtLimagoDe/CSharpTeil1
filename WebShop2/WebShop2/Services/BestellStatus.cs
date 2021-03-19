@@ -2,6 +2,6 @@
 {
     public enum BestellStatus
     {
-        Rechnung, Nachnahme, Nicht_Lieferbar, Ungueltige_Kundennummer
+        Rechnung, Nachnahme, NichtLieferbar
     }
 }

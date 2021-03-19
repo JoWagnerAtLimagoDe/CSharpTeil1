@@ -2,6 +2,6 @@
 {
     public interface IBonitaetsService
     {
-        bool IsSolvent(string kundenNummer);
+        bool IsSolvent(int kundennummer);
     }
 }

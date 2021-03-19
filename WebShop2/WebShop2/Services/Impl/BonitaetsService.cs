@@ -2,7 +2,7 @@
 {
     public class BonitaetsService : IBonitaetsService
     {
-        public bool IsSolvent(string kundenNummer)
+        public bool IsSolvent(int kundennummer)
         {
             return true;
         }
