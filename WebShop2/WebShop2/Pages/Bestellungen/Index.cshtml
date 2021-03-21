@@ -1,0 +1,53 @@
+﻿@page
+@model WebShop.Pages.Bestellungen.IndexModel
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    <a asp-page="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Bestellungen[0].Id)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Bestellungen[0].Kundennummer)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Bestellungen[0].Produkt)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Bestellungen[0].Status)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.Bestellungen)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Id)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Kundennummer)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Produkt)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Status)
+                </td>
+                <td>
+                    
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
