@@ -1,0 +1,15 @@
+C:\Users\JoachimWagner\source\repos\jo\bundesbank\BBk.Rc1.Ricis.DataImport\BBk.Rc1.Ricis.DataImport\obj\Debug\netcoreapp2.1\BBk.Rc1.Ricis.DataImport.csprojAssemblyReference.cache
+C:\Users\JoachimWagner\source\repos\jo\bundesbank\BBk.Rc1.Ricis.DataImport\BBk.Rc1.Ricis.DataImport\obj\Debug\netcoreapp2.1\BBk.Rc1.Ricis.DataImport.AssemblyInfoInputs.cache
+C:\Users\JoachimWagner\source\repos\jo\bundesbank\BBk.Rc1.Ricis.DataImport\BBk.Rc1.Ricis.DataImport\obj\Debug\netcoreapp2.1\BBk.Rc1.Ricis.DataImport.AssemblyInfo.cs
+C:\Users\JoachimWagner\source\repos\jo\bundesbank\BBk.Rc1.Ricis.DataImport\BBk.Rc1.Ricis.DataImport\obj\Debug\netcoreapp2.1\BBk.Rc1.Ricis.DataImport.csproj.CoreCompileInputs.cache
+C:\Users\JoachimWagner\source\repos\jo\bundesbank\BBk.Rc1.Ricis.DataImport\BBk.Rc1.Ricis.DataImport\bin\Debug\netcoreapp2.1\BBk.Rc1.Ricis.DataImport.deps.json
+C:\Users\JoachimWagner\source\repos\jo\bundesbank\BBk.Rc1.Ricis.DataImport\BBk.Rc1.Ricis.DataImport\bin\Debug\netcoreapp2.1\BBk.Rc1.Ricis.DataImport.dll
+C:\Users\JoachimWagner\source\repos\jo\bundesbank\BBk.Rc1.Ricis.DataImport\BBk.Rc1.Ricis.DataImport\bin\Debug\netcoreapp2.1\BBk.Rc1.Ricis.DataImport.pdb
+C:\Users\JoachimWagner\source\repos\jo\bundesbank\BBk.Rc1.Ricis.DataImport\BBk.Rc1.Ricis.DataImport\bin\Debug\netcoreapp2.1\BBk.Rc1.Ricis.CrudRepository.dll
+C:\Users\JoachimWagner\source\repos\jo\bundesbank\BBk.Rc1.Ricis.DataImport\BBk.Rc1.Ricis.DataImport\bin\Debug\netcoreapp2.1\BBk.Rc1.Ricis.CrudRepository.pdb
+C:\Users\JoachimWagner\source\repos\jo\bundesbank\BBk.Rc1.Ricis.DataImport\BBk.Rc1.Ricis.DataImport\obj\Debug\netcoreapp2.1\BBk.Rc1.Ricis.DataImport.csproj.CopyComplete
+C:\Users\JoachimWagner\source\repos\jo\bundesbank\BBk.Rc1.Ricis.DataImport\BBk.Rc1.Ricis.DataImport\obj\Debug\netcoreapp2.1\BBk.Rc1.Ricis.DataImport.dll
+C:\Users\JoachimWagner\source\repos\jo\bundesbank\BBk.Rc1.Ricis.DataImport\BBk.Rc1.Ricis.DataImport\obj\Debug\netcoreapp2.1\BBk.Rc1.Ricis.DataImport.pdb
+C:\Users\JoachimWagner\source\repos\jo\bundesbank\BBk.Rc1.Ricis.DataImport\BBk.Rc1.Ricis.DataImport\bin\Debug\netcoreapp2.1\BBk.Rc1.Ricis.DataImport.runtimeconfig.json
+C:\Users\JoachimWagner\source\repos\jo\bundesbank\BBk.Rc1.Ricis.DataImport\BBk.Rc1.Ricis.DataImport\bin\Debug\netcoreapp2.1\BBk.Rc1.Ricis.DataImport.runtimeconfig.dev.json
+C:\Users\JoachimWagner\source\repos\jo\bundesbank\BBk.Rc1.Ricis.DataImport\BBk.Rc1.Ricis.DataImport\obj\Debug\netcoreapp2.1\BBk.Rc1.Ricis.DataImport.genruntimeconfig.cache

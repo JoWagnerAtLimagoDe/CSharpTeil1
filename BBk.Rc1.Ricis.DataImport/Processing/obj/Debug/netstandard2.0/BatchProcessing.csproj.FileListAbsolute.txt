@@ -1,0 +1,9 @@
+C:\Users\JoachimWagner\source\repos\jo\bundesbank\BBk.Rc1.Ricis.DataImport\Processing\bin\Debug\netstandard2.0\BatchProcessing.deps.json
+C:\Users\JoachimWagner\source\repos\jo\bundesbank\BBk.Rc1.Ricis.DataImport\Processing\bin\Debug\netstandard2.0\BatchProcessing.dll
+C:\Users\JoachimWagner\source\repos\jo\bundesbank\BBk.Rc1.Ricis.DataImport\Processing\bin\Debug\netstandard2.0\BatchProcessing.pdb
+C:\Users\JoachimWagner\source\repos\jo\bundesbank\BBk.Rc1.Ricis.DataImport\Processing\obj\Debug\netstandard2.0\BatchProcessing.csprojAssemblyReference.cache
+C:\Users\JoachimWagner\source\repos\jo\bundesbank\BBk.Rc1.Ricis.DataImport\Processing\obj\Debug\netstandard2.0\BatchProcessing.AssemblyInfoInputs.cache
+C:\Users\JoachimWagner\source\repos\jo\bundesbank\BBk.Rc1.Ricis.DataImport\Processing\obj\Debug\netstandard2.0\BatchProcessing.AssemblyInfo.cs
+C:\Users\JoachimWagner\source\repos\jo\bundesbank\BBk.Rc1.Ricis.DataImport\Processing\obj\Debug\netstandard2.0\BatchProcessing.csproj.CoreCompileInputs.cache
+C:\Users\JoachimWagner\source\repos\jo\bundesbank\BBk.Rc1.Ricis.DataImport\Processing\obj\Debug\netstandard2.0\BatchProcessing.dll
+C:\Users\JoachimWagner\source\repos\jo\bundesbank\BBk.Rc1.Ricis.DataImport\Processing\obj\Debug\netstandard2.0\BatchProcessing.pdb

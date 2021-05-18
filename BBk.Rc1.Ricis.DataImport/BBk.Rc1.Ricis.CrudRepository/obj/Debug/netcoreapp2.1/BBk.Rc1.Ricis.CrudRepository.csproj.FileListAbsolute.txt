@@ -1,0 +1,11 @@
+C:\Users\JoachimWagner\source\repos\jo\bundesbank\BBk.Rc1.Ricis.DataImport\BBk.Rc1.Ricis.CrudRepository\bin\Debug\netcoreapp2.1\BBk.Rc1.Ricis.CrudRepository.deps.json
+C:\Users\JoachimWagner\source\repos\jo\bundesbank\BBk.Rc1.Ricis.DataImport\BBk.Rc1.Ricis.CrudRepository\bin\Debug\netcoreapp2.1\BBk.Rc1.Ricis.CrudRepository.runtimeconfig.json
+C:\Users\JoachimWagner\source\repos\jo\bundesbank\BBk.Rc1.Ricis.DataImport\BBk.Rc1.Ricis.CrudRepository\bin\Debug\netcoreapp2.1\BBk.Rc1.Ricis.CrudRepository.runtimeconfig.dev.json
+C:\Users\JoachimWagner\source\repos\jo\bundesbank\BBk.Rc1.Ricis.DataImport\BBk.Rc1.Ricis.CrudRepository\bin\Debug\netcoreapp2.1\BBk.Rc1.Ricis.CrudRepository.dll
+C:\Users\JoachimWagner\source\repos\jo\bundesbank\BBk.Rc1.Ricis.DataImport\BBk.Rc1.Ricis.CrudRepository\bin\Debug\netcoreapp2.1\BBk.Rc1.Ricis.CrudRepository.pdb
+C:\Users\JoachimWagner\source\repos\jo\bundesbank\BBk.Rc1.Ricis.DataImport\BBk.Rc1.Ricis.CrudRepository\obj\Debug\netcoreapp2.1\BBk.Rc1.Ricis.CrudRepository.AssemblyInfoInputs.cache
+C:\Users\JoachimWagner\source\repos\jo\bundesbank\BBk.Rc1.Ricis.DataImport\BBk.Rc1.Ricis.CrudRepository\obj\Debug\netcoreapp2.1\BBk.Rc1.Ricis.CrudRepository.AssemblyInfo.cs
+C:\Users\JoachimWagner\source\repos\jo\bundesbank\BBk.Rc1.Ricis.DataImport\BBk.Rc1.Ricis.CrudRepository\obj\Debug\netcoreapp2.1\BBk.Rc1.Ricis.CrudRepository.csproj.CoreCompileInputs.cache
+C:\Users\JoachimWagner\source\repos\jo\bundesbank\BBk.Rc1.Ricis.DataImport\BBk.Rc1.Ricis.CrudRepository\obj\Debug\netcoreapp2.1\BBk.Rc1.Ricis.CrudRepository.dll
+C:\Users\JoachimWagner\source\repos\jo\bundesbank\BBk.Rc1.Ricis.DataImport\BBk.Rc1.Ricis.CrudRepository\obj\Debug\netcoreapp2.1\BBk.Rc1.Ricis.CrudRepository.pdb
+C:\Users\JoachimWagner\source\repos\jo\bundesbank\BBk.Rc1.Ricis.DataImport\BBk.Rc1.Ricis.CrudRepository\obj\Debug\netcoreapp2.1\BBk.Rc1.Ricis.CrudRepository.genruntimeconfig.cache
